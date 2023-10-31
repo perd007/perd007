@@ -13,5 +13,3 @@ Habilidades: REACT / JS / HTML / CSS/ PHP / BOOTSTRAP/ PYTHON/ FLASK /SQLARCHEMY
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/perd007)  
-

@@ -5,11 +5,11 @@
 
 - Estoy aprendiendo el idioma **ingles y a mejorar el diseño del FrontEnd**
 
-- 👯Quiero colaborar con Proyectos en **react, js python, php**
+- 👯Quiero colaborar con Proyectos en **react, javascripts, python, php**
 
 - 🤝 Necesito ayuda con el **idioma ingles**
 
-- 💬 Pregunten me acerca de **programacion**
+- 💬 Preguntenme acerca de **programación**
 
 - 📫 Cómo contactarme: **phpperdomo@gmail.com**
 

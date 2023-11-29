@@ -7,7 +7,7 @@
 
 - 👯Quiero colaborar con Proyectos en **react, javascripts, python, php**
 
-- 🤝 Necesito ayuda con el **idioma ingles**
+- 🤝 Necesito ayuda con el **idioma inglés**
 
 - 💬 Preguntenme acerca de **programación**
 

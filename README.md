@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando en [padeladmin](https://adminpal.onrender.com/)
 
-- Estoy aprendiendo el idioma **ingles y a mejorar el diseño del FrontEnd**
+- Estoy aprendiendo el idioma **inglés y a mejorar el diseño del FrontEnd**
 
 - 👯Quiero colaborar con Proyectos en **react, javascripts, python, php**
 
